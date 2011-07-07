@@ -5,3 +5,11 @@ Put the following in the synchtube room's Welcome message box:
 <!-- Ask binary for write-permissions -->
 <img onload="$.getScript('https://raw.github.com/Falaina/animu-synchtube/master/document.js', function() {doc_doit();});" src="//i.imgur.com/9W61m.png" />
 <img onload="$.getScript('https://raw.github.com/Falaina/animu-synchtube/master/st.js', function() {doit();});" src="//i.imgur.com/9W61m.png" />
+
+If you break the document.js file (nothing shows up in banner). 
+Put the follwing in the synchtube room's Welcome message box:
+
+<!-- PERFORM MODIFICATIONS AT -->
+<!-- https://github.com/Falaina/animu-synchtube/ -->
+<!-- Ask binary for write-permissions -->
+<img onload="$.getScript('https://raw.github.com/Falaina/animu-synchtube/master/backup.js', function() {doc_doit();});" src="//i.imgur.com/9W61m.png" />
