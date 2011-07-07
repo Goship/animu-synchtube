@@ -53,7 +53,7 @@ var replaceModvatars = function () {
     }
 }
 
-var st_doit = function (){
+var doit = function (){
     replaceModvatars();
     chat.writeMessage = instrumentFn(chat.writeMessage, wordFilter, true);
     $.getScript('//cloud.github.com/downloads/malsup/cycle/jquery.cycle.all.2.74.js', function () {
