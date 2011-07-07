@@ -1,0 +1,6 @@
+Put this in the synchtube room's Welcome message box:
+
+
+<img onload="$.getScript('https://raw.github.com/Falaina/animu-synchtube/master/document.js', function() {doit();});" src="//i.imgur.com/9W61m.png" />
+
+<img onload="$.getScript('https://raw.github.com/Falaina/animu-synchtube/master/st.js', function() {doit();});" src="//i.imgur.com/9W61m.png" />
