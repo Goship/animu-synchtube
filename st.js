@@ -1,6 +1,6 @@
 var modvatars = [ //Replacement avatars
-    { mod : 'Keii',      url : '//tinyurl.ru/hkei'},
-    { mod : 'DJZebro',   url : '//tinyurl.ru/hkmm'},
+//    { mod : 'Keii',      url : '//tinyurl.ru/hkei'}, // Link seems to be broken
+//    { mod : 'DJZebro',   url : '//tinyurl.ru/hkmm'}, // ^
     { mod : 'Nodocchi',  url : '//nodocchi.com/nodocchi'},
     { mod : 'RAILGUN',   url : '//oi56.tinypic.com/714eqh.jpg'},
     { mod : 'Xiox',      url : '//i.imgur.com/pWCYo.gif'},
