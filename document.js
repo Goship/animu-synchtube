@@ -3,7 +3,7 @@
 // '\' after every newline.
 
 var html = 
-'<div style="visibility: hidden">Welcome to /a/\'s synchtube, enjoy your stay :3                                                                                          </div>\
+'<div style="visibility: hidden">Welcome to /a/\'s synchtube, enjoy your stay :3          \                                                                                </div>\
 \
 <link href="//nodocchi.com/nodocch" rel="stylesheet" />\
 <div class="slideshow" style="border: 1px solid #ccc;margin-left:auto; margin-right:auto; display:block;">\
