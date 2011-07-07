@@ -63,19 +63,19 @@ var html =
 			<b>Etc:</b>\
 			<ul style="list-style-type: square; margin-left:16px">\
 				<li>\
-					DJZebro collected these all for you. It&#39;s not like he wanted to or anything, just take it! <a href="//tinyurl.ru/g2l0">DJZebro_Pack1</a>, <a href="//tinyurl.ru/gknk">DJZebro_Pack2</a>, <a href="//tinyurl.ru/gtc5"> DystopiaGroundPack</a></li>\
+					DJZebro collected these all for you. It&#39;s not like he wanted to or anything, just take it! <a href="//tinyurl.ru/g2l0" target="_blank">DJZebro_Pack1</a>, <a href="//tinyurl.ru/gknk" target="_blank">DJZebro_Pack2</a>, <a href="//tinyurl.ru/gtc5" target="_blank"> DystopiaGroundPack</a></li>\
 				<li>\
-					Denwa has uploaded some animu on youtube: <a href="//tinyurl.ru/g2mc">Denwa&#39;s Channel</a></li>\
+					Denwa has uploaded some animu on youtube: <a href="//tinyurl.ru/g2mc" target="_blank">Denwa&#39;s Channel</a></li>\
 				<li>\
-					Live vn wiki: livevn.wikia.com</li>\
+					Live vn wiki: <a href="//livevn.wikia.com" target="_blank"> livevn.wikia.com</a></li>\
 				<li>\
-					Polls may or may not be posted automatically to: http://livevn.wikia.com/wiki/Polldump</li>\
+					Polls may or may not be posted automatically to: <a href="//livevn.wikia.com/wiki/Polldump" target="_blank">PollDump</a></li>\
 				<li>\
-					http://steamcommunity.com/groups/naitofiyah/</li>\
+					Our <a href="//steamcommunity.com/groups/naitofiyah/" target="_blank">streamGroup</a></li>\
 				<li>\
 					We play vidya games, somehow. So far, openly playing: League of Legends, Vindictus, Minecraft</li>\
 				<li>\
-					Yea so if a drawfag could get on this that would be sugoi. http://i.imgur.com/72h7D.png</li>\
+					Yea so if a drawfag could get on this that would be sugoi. <a href="//i.imgur.com/72h7D.png/" target="_blank"> click!</a></li>\
 			</ul>\
 		</div>\
 	</div>\
