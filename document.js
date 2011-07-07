@@ -34,6 +34,7 @@ var html =
 <img src="//i.imgur.com/Ry3O7.png" width="100%"/>\
 <!-- Goships -->\
 </div>\
+<br />\<br />\
 <div id="ie-test">\
 	<ul class="group" id="boxLinks">\
 		<li>\
