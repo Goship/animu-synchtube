@@ -45,13 +45,16 @@ var html =
 		<div class="box" id="box1">\
 			<ul>\
 				<br />\
-				Defeated: ろん -「おちゃめ機能」FUKKIRETA 10 hours &bull; Cosmos: A Personal Voyage &bull; Night of Fire ft. Korikki 10 HOURS LONG &bull; (touhou) Myomyomyomyomyomyomyon! (HD) 3 HOURS LONG &bull; Cromartie Highschool dub &bull; Nyoron Churuya san &bull; Di Gi Charat &bull; The Melancholy of Haruhi-Chan &bull; Battle Programmer Shirase &bull; Hokago no Pleiades &bull; REC &bull; The Disappearance Of Haruhi Suzumiya &bull; Fate/Stay night UBW &bull; Girl who leapt through time &bull; 24 hour tag &bull; Mars of Destruction &bull; Black Rock Shooter OVA &bull; Interstella 5555 &bull; Kikujiro &bull; Kara no Kyoukai &bull; Fist of the North Star Movie Remastered &bull; The Legend of Koizumi &bull; High School of The Dead &bull; Bakemonogatari &bull; Toradora! &bull; Majokko Tsukune-Chan &bull; Funky Forest: The First Contact &bull; Clannad &bull; Seitokai Yakuindomo &bull; Eve no Jikan &bull; .Hack//Quantum &bull; Panty &amp; Stocking with Garterbelt &bull; Dokuro-Chan &bull; Ah! My Goddess: The Movie &bull; Akira &bull; Rozen Maiden S1<br />\
-				<br />\
-				On next anime hour, 10 PM EST: Rozen Maiden: Traumend 5-6<br />\
+				<b>Defeated:</b> <span style="color:#ff0000; font-weight:bold"> ろん -「おちゃめ機能」FUKKIRETA 10 hours </span> &#149;  
+				<span style="color:#ff0000; font-weight:bold"> Cosmos: A Personal Voyage</span> &#149; 
+				<span style="color:#ff0000; font-weight:bold">Night of Fire ft. Korikki 10 HOURS LONG</span> &#149;  <br />
+				<span style="color:#ff0000; font-weight:bold">(touhou) Myomyomyomyomyomyomyon! (HD) 3 HOURS LONG </span>
+				&bull; Cromartie Highschool dub &bull; Nyoron Churuya san &bull; Di Gi Charat &bull; The Melancholy of Haruhi-Chan &bull; Battle Programmer Shirase &bull; Hokago no Pleiades &bull; REC &bull; The Disappearance Of Haruhi Suzumiya &bull; Fate/Stay night UBW &bull; Girl who leapt through time &bull; 24 hour tag &bull; Mars of Destruction &bull; Black Rock Shooter OVA &bull; Interstella 5555 &bull; Kikujiro &bull; Kara no Kyoukai &bull; Fist of the North Star Movie Remastered &bull; The Legend of Koizumi &bull; High School of The Dead &bull; Bakemonogatari &bull; Toradora! &bull; Majokko Tsukune-Chan &bull; Funky Forest: The First Contact &bull; Clannad &bull; Seitokai Yakuindomo &bull; Eve no Jikan &bull; .Hack//Quantum &bull; Panty &amp; Stocking with Garterbelt &bull; Dokuro-Chan &bull; Ah! My Goddess: The Movie &bull; Akira &bull; Rozen Maiden S1<br />\
 				<br />\
 				Animu we are watching: Denpa Onna (to ep 9), Aria (to ep 5), Minami-Ke (to ep 7), Astro Fighter Sunred (Ep 1)<br />\
 				<br />\
-				Submit your own animu banner. 1000x116 size, .png file, with these font :3 http://www.dafont.com/the-great-escape.font\
+				<b>Submit your own animu banner. 1000x116 size, .png file, with these font :3</b> <a href="//dafont.com/the-great-escape.font" target="_blank">the-great-escape.font</a><br />\
+				<b>Submitted banners</b> <a href="//animusynchtube.imgur.com/banners" target="_blank">Click here!</a>\
 			</ul>\
 		</div>\
 		<div class="box" id="box2">\
