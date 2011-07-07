@@ -13,7 +13,9 @@ var word_filters = [ // Filtered words
     {pat : /mami/ig,         new : 'mumi'},
     {pat : /kyoko/ig,        new : 'kyaku'},
     {pat : /sayaka/ig,       new : 'sayaku'},
-    {pat : /(binaryheap)/ig, new : '$1-senpai'}
+    {pat : /(binaryheap)/ig, new : '$1-senpai'},
+    {pat : /everyone/ig,        new : 'everynyan'},
+    {pat : /plan/ig,       new : 'keikaku'},
 ];
 
 
