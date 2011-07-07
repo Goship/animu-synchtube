@@ -33,14 +33,7 @@ var html =
 <img src="//i.imgur.com/Ry3O7.png" width="100%"/>\
 <!-- Goships -->\
 </div>\
-<p><img src="//nodocchi.com/random" style="border: 1px solid #ccc;margin-left:auto; margin-right:auto; display:block;" width="100%" /></p>\
-<p>\
-\
-<br />\
-\
-<p>\
-	<link href="//nodocchi.com/nodocch" rel="stylesheet" />\
-</p>\
+<link href="//nodocchi.com/nodocch" rel="stylesheet" />\
 <div id="ie-test">\
 	<ul class="group" id="boxLinks">\
 		<li>\
