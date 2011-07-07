@@ -5,7 +5,8 @@
 var html = 
 '<div style="visibility: hidden">Welcome to /a/\'s synchtube, enjoy your stay :3                                                                                          </div>\
 \
-<div class="slideshow" style="margin-bottom: 25px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(204, 204, 204); border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); position: relative; width: 926px; height: 110px; ">\
+<link href="//nodocchi.com/nodocch" rel="stylesheet" />\
+<div class="slideshow" style="border: 1px solid #ccc;margin-left:auto; margin-right:auto; display:block;">\
 <img src="//nodocchi.com/face/Hidamari%20Sketch.png" width="100%"/>\
 <img src="//nodocchi.com/face/Ika%20Musume.png" width="100%"/>\
 <img src="//nodocchi.com/face/Kizuna%20Aikawa.png" width="100%"/>\
@@ -33,7 +34,6 @@ var html =
 <img src="//i.imgur.com/Ry3O7.png" width="100%"/>\
 <!-- Goships -->\
 </div>\
-<link href="//nodocchi.com/nodocch" rel="stylesheet" />\
 <div id="ie-test">\
 	<ul class="group" id="boxLinks">\
 		<li>\
