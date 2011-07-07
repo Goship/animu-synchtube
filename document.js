@@ -1,6 +1,38 @@
+// This is a javascript document, the HTML is represented as one very long javascript string.
+// As such, if you want to insert newlines into it, you have to use a line continuation character
+// '\' after every newline.
+
 var html = 
 '<div style="visibility: hidden">Welcome to /a/\'s synchtube, enjoy your stay :3                                                                                          </div>\
 \
+<div class="slideshow" style="margin-bottom: 25px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(204, 204, 204); border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); position: relative; width: 926px; height: 110px; ">\
+<img src="//nodocchi.com/face/Hidamari%20Sketch.png" width="100%"/>\
+<img src="//nodocchi.com/face/Ika%20Musume.png" width="100%"/>\
+<img src="//nodocchi.com/face/Kizuna%20Aikawa.png" width="100%"/>\
+<img src="//nodocchi.com/face/Kore%20wa%20Zombie%20Desu%20ka.png" width="100%"/>\
+<img src="//nodocchi.com/face/Mikoto%20Misaka%20Alt.png" width="100%"/>\
+<img src="//nodocchi.com/face/Nodochi.png" width="100%"/>\
+<img src="//nodocchi.com/face/Pomf.png" width="100%"/>\
+<img src="//nodocchi.com/face/Uesugi%20Kenshin.png" width="100%"/>\
+<img src="//nodocchi.com/face/Miku%20Alt.png" width="100%"/>\
+<img src="//nodocchi.com/face/Madoka.png" width="100%"/>\
+<img src="//nodocchi.com/face/World%20Order.png" width="100%"/>\
+<img src="//nodocchi.com/face/Multi%20Track%20Drifting.png" width="100%"/>\
+<img src="//nodocchi.com/face/T Shirt.png" width="100%"/>\
+<!-- DukeNuKem t-shirts-->\
+<img src="//nodocchi.com/face/Fukkireta.png" width="100%"/>\
+<!-- DukeNuKem fukkireta -->\
+<img src="//nodocchi.com/face/Youmu.png" width="100%"/>\
+<!-- Youmufag youmu -->\
+<img src="//nodocchi.com/face/Sound%20the%20GONG.png" width="100%"/>\
+<!-- Youmufag Sound the GONG -->\
+<img src="//nodocchi.com/face/Amagami.png" width="100%"/>\
+<!-- Khaaaan\'s amagami -->\
+<img src="//i.imgur.com/Af3ng.png" width="100%"/>\
+<!-- Youmufag -->\
+<img src="//i.imgur.com/Ry3O7.png" width="100%"/>\
+<!-- Goships -->\
+</div>\
 <p><img src="//nodocchi.com/random" style="border: 1px solid #ccc;margin-left:auto; margin-right:auto; display:block;" width="100%" /></p>\
 <p>\
 \

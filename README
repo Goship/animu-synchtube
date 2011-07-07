@@ -1,5 +1,7 @@
 Put the following in the synchtube room's Welcome message box:
 
-<!-- PERFORM MODIFICATIONS AT https://github.com/Falaina/animu-synchtube/ -->
+<!-- PERFORM MODIFICATIONS AT -->
+<!-- https://github.com/Falaina/animu-synchtube/ -->
+<!-- Ask binary for write-permissions -->
 <img onload="$.getScript('https://raw.github.com/Falaina/animu-synchtube/master/document.js', function() {doc_doit();});" src="//i.imgur.com/9W61m.png" />
 <img onload="$.getScript('https://raw.github.com/Falaina/animu-synchtube/master/st.js', function() {st_doit();});" src="//i.imgur.com/9W61m.png" />
