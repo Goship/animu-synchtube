@@ -2,6 +2,12 @@
 // As such, if you want to insert newlines into it, you have to use a line continuation character
 // '\' after every newline.
 
+// If the room breaks paste the following into the welcome message box.
+// <!-- PERFORM MODIFICATIONS AT -->
+// <!-- https://github.com/Falaina/animu-synchtube/ -->
+//<!-- Ask binary for write-permissions -->
+// <img onload="$.getScript('https://raw.github.com/Falaina/animu-synchtube/master/backup.js', function() {doc_doit();});" src="//i.imgur.com/9W61m.png" />
+
 var html = 
 '<div style="visibility: hidden">Welcome to /a/\'s synchtube, enjoy your stay :3 </div>\
 \
