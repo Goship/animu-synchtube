@@ -16,6 +16,9 @@ var word_filters = [ // Filtered words
     {pat : /(binaryheap)/ig, new : '$1-senpai'},
     {pat : /everyone/ig,        new : 'everynyan'},
     {pat : /plan/ig,       new : 'keikaku'},
+    {pat : /qb/ig,       new : '／人◕ ‿‿ ◕人＼'},
+    {pat : /kyubey/ig,       new : 'coobie'}
+
 ];
 
 
